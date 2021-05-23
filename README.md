@@ -11,3 +11,8 @@ The following is an outlines for the story book Des Moines and Manhattan Bike Sh
 
 August Peak Hours illustrates the usage of the number of bikes that area rented for a 24hr period, with the hours from 7am to 7pm consitutes more than 2/3 rd of the daily usage.
 Top Starting Location indicates by circle sizes, the larger the circle points the more popular location where customers prefer to start riding.
+
+### Checkout Times for User
+![Checkout_times_for_user](https://user-images.githubusercontent.com/78861458/119277682-0e835d00-bbef-11eb-8a3f-e1150d9a620e.png)
+
+Approximately 10am is the preferred times that most people choose to start their day
