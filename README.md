@@ -20,7 +20,14 @@ Approximately 10am is the preferred times that most people choose to start their
 ### Checkout by Gender
 ![Checkout_times_by_gender](https://user-images.githubusercontent.com/78861458/119278255-198bbc80-bbf2-11eb-89a2-4ea6f997f937.png)
 
-Males are the biggest user of the services, unknown simple means the gender wasn't check on registration
+Males are the biggest user of the services, unknown simple means the gender wasn't check on registration.
+
+### Trips by Weekday for Each Hour
+![Trips_by_weekday_for_each_hour](https://user-images.githubusercontent.com/78861458/119278519-cadf2200-bbf3-11eb-96e4-0e3107ef8cb8.png)
+
+This heatmap show the trip count for a particular hour on a given day. The hottest point on the map gives a reflection of the most bike trips during that hour.
+
+
 
 
 
