@@ -5,5 +5,9 @@ Bike sharing has become a popular service in metropolitan areas around the count
 
 ## Results
 The following is an outlines for the story book Des Moines and Manhattan Bike Sharing Services for Module 14 Challenge:
+
+### NYC Citi-Bike
 ![NYC_Bike](https://user-images.githubusercontent.com/78861458/119277233-72585680-bbec-11eb-92d6-d78bc10708bb.png)
 
+August Peak Hours illustrates the usage of the number of bikes that area rented for a 24hr period, with the hours from 7am to 7pm consitutes more than 2/3 rd of the daily usage.
+Top Starting Location indicates by circle sizes, the larger the circle points the more popular location where customers prefer to start riding.
