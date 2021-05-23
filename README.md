@@ -37,6 +37,11 @@ A breakdown heatmap for gender separation for trip count for each hour of the da
 
 The bulk of Citi-Bike revenue comes annual subscribers mostly dominated by males. Data shows females should be main our main focus to even half that of the male group.
 
+### Age Usage and Bike Repairs
+![Age_usage_and_bike_repairs](https://user-images.githubusercontent.com/78861458/119279509-33310200-bbfa-11eb-84b2-a253b5793553.png)
+
+The area under the curve gives the amount of people that uses Citi Bike services, the x-axis gives the year that each user were born. Folks the are between the ages of 24 to 34 are the higgest user of the services.
+
 
 
 
