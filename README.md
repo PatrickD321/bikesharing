@@ -32,5 +32,11 @@ This heatmap show the trip count for a particular hour on a given day. The hotte
 
 A breakdown heatmap for gender separation for trip count for each hour of the day.
 
+### Short-term Customers vs Annual Subscribers
+![Short-term_Customer_vs_Annual_Subscribers](https://user-images.githubusercontent.com/78861458/119279241-65d9fb00-bbf8-11eb-9d96-cfc2d3a39c90.png)
+
+The bulk of Citi-Bike revenue comes annual subscribers mostly dominated by males. Data shows females should be main our main focus to even half that of the male group.
+
+
 
 
