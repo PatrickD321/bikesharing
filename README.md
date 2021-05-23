@@ -27,8 +27,10 @@ Males are the biggest user of the services, unknown simple means the gender wasn
 
 This heatmap show the trip count for a particular hour on a given day. The hottest point on the map gives a reflection of the most bike trips during that hour.
 
+### Trips by Gender(Weekday per Hour)
+![Trips_by_gender(weekday_per_hour)](https://user-images.githubusercontent.com/78861458/119278836-d03d6c00-bbf5-11eb-8b89-daba166a5c21.png)
+
+A breakdown heatmap for gender separation for trip count for each hour of the day.
 
 
 
-
-Males are 
