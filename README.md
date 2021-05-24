@@ -25,7 +25,7 @@ As indicated by the data, males are the largest users of this services, unknown,
 ### Trips by Weekday for Each Hour
 ![Trips_by_weekday_for_each_hour](https://user-images.githubusercontent.com/78861458/119278519-cadf2200-bbf3-11eb-96e4-0e3107ef8cb8.png)
 
-This heatmap show the trip count for a particular hour on a given day. The hottest point on the map gives a reflection of the most bike trips during that hour.
+This heatmap shows the trip count for a particular hour on a given day. The hottest point on the map gives a reflection of the most bike trips during that hour.
 
 ### Trips by Gender(Weekday per Hour)
 ![Trips_by_gender(weekday_per_hour)](https://user-images.githubusercontent.com/78861458/119278836-d03d6c00-bbf5-11eb-8b89-daba166a5c21.png)
@@ -35,7 +35,7 @@ A breakdown heatmap for gender separation for trip count for each hour of the da
 ### Short-term Customers vs Annual Subscribers
 ![Short-term_Customer_vs_Annual_Subscribers](https://user-images.githubusercontent.com/78861458/119279241-65d9fb00-bbf8-11eb-9d96-cfc2d3a39c90.png)
 
-The bulk of Citi-Bike revenue comes annual subscribers mostly dominated by males. Data shows females should be main our main focus to even half that of the male group.
+The bulk of Citi-Bike revenue comes from annual subscribers, this mostly dominated by males. Targeting females should be main our main focus to even half that of the male group.
 
 ### Age Usage and Bike Repairs
 ![Age_usage_and_bike_repairs](https://user-images.githubusercontent.com/78861458/119279509-33310200-bbfa-11eb-84b2-a253b5793553.png)
