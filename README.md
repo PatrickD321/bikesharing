@@ -41,9 +41,10 @@ The bulk of Citi-Bike revenue comes from annual subscribers, this mostly dominat
 ![Age_usage_and_bike_repairs](https://user-images.githubusercontent.com/78861458/119279509-33310200-bbfa-11eb-84b2-a253b5793553.png)
 
 The area under the curve gives the amount of people that uses Citi Bike services, the x-axis gives the year that each user were born. Folks the are between the ages of 24 to 34 are the higgest user of the services.
-To keep the services up and running, bikes with the highest amount of usage most be identified and taken out of service for maintenance. The variable color map with red being on the high end of the spectrum provides for all bikes since each bike has an unique id number
+To keep the services up and running, bikes with the highest amount of usage must be identified and taken out of service for maintenance. The variable color map with red being on the high end of the spectrum has the unique number for all bikes.
 
 [link to workbook](https://public.tableau.com/profile/patrick.dawson#!/vizhome/DesMoinesandManhattanBikeSharing/DesMoinesandManhattanBikeSharingServices?publish=yes)
 
+### Summary
 
 
