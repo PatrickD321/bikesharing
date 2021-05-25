@@ -48,4 +48,9 @@ To keep the services up and running, bikes with the highest amount of usage must
 
 ### Summary
 
+  Des Moines being a metropolitan area like Manhattan could capitalize on similar services. However, for the business model to be successful it may require changes. This city does not have the traffic congestions since the population is not as dense as NYC. The streets might be wider and better structured, as well as, having proper bike lanes design into the grid of roadways, which will make bike riding a lot easier than the bigger cities. Demographics of the city plays an important role in the development in this kind of service. Different age groups respond appropriately as seen in the graph for Age Usage. A ratio between people who do not use the services and those who do, is necessary, to determine how convenient for the residents in Des Moines to own and store their bikes, since Manhattan dwellings are much smaller than Des Moines. Guest at each hotel may have consider the distance between attractions, before thinking riding to and from each location. The distance and cost compared to other modes of transportation may have to be address, tourist may find it easier and more affordable to use other kind of transport. Having bikes sitting idly is not good for business, a comparison should have been made, for each hour, for bikes in usage and the ones that are not. Maintenance is an expensive and important part of the operation and this cost must be factored into presentation. The two additional visualizations that could be use for future analysis are:
+-	The ratio between bikes in use and those that are not.
+-	Comparison of the population size for the two cities.
+
+
 
