@@ -9,7 +9,8 @@ The following is an outlines for the story book Des Moines and Manhattan Bike Sh
 ### NYC Citi-Bike
 ![NYC_Bike](https://user-images.githubusercontent.com/78861458/119277233-72585680-bbec-11eb-92d6-d78bc10708bb.png)
 
-August Peak Hours illustrates the usage of the number of bikes that are rented for a 24hr period, with the hours from 7am to 7pm accountingfor than more than 2/3 rd of the daily usage.
+August Peak Hours illustrates - the usage of the number of bikes that are rented for a 24hr period, with the hours from 7am to 7pm accounting for than more than 2/3 rd of the daily usage.
+
 Top Starting Location - Indicated by circle sizes, the larger the circle size the more popular the location is. These points show where customers prefer to start riding.
 
 ### Checkout Times for User
